@@ -1,0 +1,20 @@
+install librosa
+install 6.0
+http://paranoth.com/2018/05/30/tx2%E5%AE%89%E8%A3%85numba%E6%97%B6%E7%9A%84%E5%9D%91/
+
+install pytorch
+https://gergely.imreh.net/wheels/torch/torch-1.0.0a0%2Bdb5d313-cp35-cp35m-linux_aarch64.whl
+
+6/18 install pyAudioAnalysis
+sudo pip3 install pyAudioAnalysis
+
+7/9 install sompy
+https://github.com/sevamoo/SOMPY
+sample code
+https://gist.github.com/sevamoo/035c56e7428318dd3065013625f12a11
+
+nvcc error
+https://discuss.tvm.ai/t/filenotfounderror-errno-2-no-such-file-or-directory-nvcc-nvcc/690
+https://github.com/Cyoung7/implement_tvm
+
+
