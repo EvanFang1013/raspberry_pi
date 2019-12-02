@@ -1,6 +1,13 @@
 install librosa
 install 6.0
+
+sudo apt-get install clang
+
+https://github.com/numba/llvmlite
+http://www.ojit.com/article/1247675
 http://paranoth.com/2018/05/30/tx2%E5%AE%89%E8%A3%85numba%E6%97%B6%E7%9A%84%E5%9D%91/
+https://stackoverflow.com/questions/46751140/running-librosa-numba-on-raspberry-pi-3
+https://github.com/librosa/librosa/releases/ 
 
 install pytorch
 https://gergely.imreh.net/wheels/torch/torch-1.0.0a0%2Bdb5d313-cp35-cp35m-linux_aarch64.whl
